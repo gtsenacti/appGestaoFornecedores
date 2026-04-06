@@ -1,0 +1,10 @@
+C:\Users\m\source\repos\appGestaoFornecedores\bin\Debug\appGestaoFornecedores.exe.config
+C:\Users\m\source\repos\appGestaoFornecedores\bin\Debug\appGestaoFornecedores.exe
+C:\Users\m\source\repos\appGestaoFornecedores\bin\Debug\appGestaoFornecedores.pdb
+C:\Users\m\source\repos\appGestaoFornecedores\obj\Debug\appGestaoFornecedores.csproj.AssemblyReference.cache
+C:\Users\m\source\repos\appGestaoFornecedores\obj\Debug\appGestaoFornecedores.frmCadastroFornecedores.resources
+C:\Users\m\source\repos\appGestaoFornecedores\obj\Debug\appGestaoFornecedores.Properties.Resources.resources
+C:\Users\m\source\repos\appGestaoFornecedores\obj\Debug\appGestaoFornecedores.csproj.GenerateResource.cache
+C:\Users\m\source\repos\appGestaoFornecedores\obj\Debug\appGestaoFornecedores.csproj.CoreCompileInputs.cache
+C:\Users\m\source\repos\appGestaoFornecedores\obj\Debug\appGestaoFornecedores.exe
+C:\Users\m\source\repos\appGestaoFornecedores\obj\Debug\appGestaoFornecedores.pdb
